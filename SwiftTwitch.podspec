@@ -21,7 +21,7 @@ usage document of SwiftTwitch, please view the GitHub README available here: htt
 
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '13.0'
-  s.macos.deployment_target = '10.14'
+  s.macos.deployment_target = '10.15'
 
   s.source_files = 'SwiftTwitch/Classes/**/*'
 
